@@ -1,7 +1,7 @@
 echo "# pdutst on line " >> README.md
 git init
 git add README.md
-git commit -m "first in site"
+git commit -m "first"
 git branch -M main
 git remote add origin https://github.com/PDuchamps/pdutestscroll2.git
 git push -u origin main
