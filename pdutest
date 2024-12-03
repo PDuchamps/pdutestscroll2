@@ -1,4 +1,4 @@
-echo "# pdutst on line " >> README.md
+echo "# pdutst on" >> README.md
 git init
 git add README.md
 git commit -m "first"
